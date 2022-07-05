@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/CwffZ61/20220605-104552.jpg" alt="nz" width="350"/>
 </p>
 
-## ☬𝗥𝗘𝗗༒𝗗𝗥𝗔𝗚𝗢𝗡-𝗕𝗢𝗧࿐   Version 5.0
+## ☬BLACK༒QVEEN*♨-𝗕𝗢𝗧࿐   Version 5.0
   
 
 
