@@ -85,7 +85,7 @@ except ImportError:
     try:
         from http.client import HTTPSConnection
     except ImportError:
-        HTTPSConnection = None
+        HTTPSConnection = None 
 
 try:
     from httplib import FakeSocket
